@@ -6,4 +6,4 @@ for (const spin of spinner) {
     process.stdout.write(`\r${spin}   `);
   }, delay);
   delay += 200;
-};
+}
